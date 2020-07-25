@@ -1,0 +1,22 @@
+body {
+    background-image: url("Assets/Images/connectwork.png");
+}
+
+h1 {
+    color:rgb(63, 63, 63);
+    font-weight: bold;
+    font-size: 35px;
+}
+
+footer p {
+    text-align: center;
+}
+
+#about-me-img {
+    float: left;
+    margin-right: 2%;
+}
+
+#page-header {
+    text-align: center;
+}
