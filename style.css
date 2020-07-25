@@ -17,6 +17,6 @@ footer p {
     margin-right: 2%;
 }
 
-#page-header {
-    text-align: center;
-}
+#sticky-footer {
+    flex-shrink: 0;
+  }
