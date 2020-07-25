@@ -17,6 +17,7 @@ footer p {
     margin-right: 2%;
 }
 
-#sticky-footer {
-    flex-shrink: 0;
-  }
+.portfolio-display {
+    text-align: center;
+}
+
